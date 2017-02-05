@@ -1,8 +1,8 @@
-# Heroes_manager
+# Heroes Manager
 Fun with responsive datatables
 ================================
 
-# Heroes Manager
+
 Built and tested using IE 10 and chrome plugin Mobile RWD tester (https://chrome.google.com/webstore/detail/mobileresponsive-web-desi/elmekokodcohlommfikpmojheggnbelo)
 
 <h4> View Heroes Manager</h4>
